@@ -142,6 +142,7 @@ INSERT INTO rotas (origem, destino, distancia, carga, valor_frete, id_motorista,
 
 ```
 👥 Equipe de Desenvolvimento
+
 Guilherme Michel
 
 Thiago Silva Duarte
